@@ -1,0 +1,12 @@
+/workspace/ApiWeb.Domain/bin/Debug/net8.0/ApiWeb.Domain.deps.json
+/workspace/ApiWeb.Domain/bin/Debug/net8.0/ApiWeb.Domain.dll
+/workspace/ApiWeb.Domain/bin/Debug/net8.0/ApiWeb.Domain.pdb
+/workspace/ApiWeb.Domain/obj/Debug/net8.0/ApiWeb.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/ApiWeb.Domain/obj/Debug/net8.0/ApiWeb.Domain.AssemblyInfoInputs.cache
+/workspace/ApiWeb.Domain/obj/Debug/net8.0/ApiWeb.Domain.AssemblyInfo.cs
+/workspace/ApiWeb.Domain/obj/Debug/net8.0/ApiWeb.Domain.csproj.CoreCompileInputs.cache
+/workspace/ApiWeb.Domain/obj/Debug/net8.0/ApiWeb.Domain.sourcelink.json
+/workspace/ApiWeb.Domain/obj/Debug/net8.0/ApiWeb.Domain.dll
+/workspace/ApiWeb.Domain/obj/Debug/net8.0/refint/ApiWeb.Domain.dll
+/workspace/ApiWeb.Domain/obj/Debug/net8.0/ApiWeb.Domain.pdb
+/workspace/ApiWeb.Domain/obj/Debug/net8.0/ref/ApiWeb.Domain.dll
