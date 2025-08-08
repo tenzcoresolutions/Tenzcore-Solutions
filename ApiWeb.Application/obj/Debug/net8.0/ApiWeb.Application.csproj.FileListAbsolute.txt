@@ -1,0 +1,16 @@
+/workspace/ApiWeb.Application/bin/Debug/net8.0/ApiWeb.Application.deps.json
+/workspace/ApiWeb.Application/bin/Debug/net8.0/ApiWeb.Application.dll
+/workspace/ApiWeb.Application/bin/Debug/net8.0/ApiWeb.Application.pdb
+/workspace/ApiWeb.Application/bin/Debug/net8.0/ApiWeb.Domain.dll
+/workspace/ApiWeb.Application/bin/Debug/net8.0/ApiWeb.Domain.pdb
+/workspace/ApiWeb.Application/obj/Debug/net8.0/ApiWeb.Application.csproj.AssemblyReference.cache
+/workspace/ApiWeb.Application/obj/Debug/net8.0/ApiWeb.Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/ApiWeb.Application/obj/Debug/net8.0/ApiWeb.Application.AssemblyInfoInputs.cache
+/workspace/ApiWeb.Application/obj/Debug/net8.0/ApiWeb.Application.AssemblyInfo.cs
+/workspace/ApiWeb.Application/obj/Debug/net8.0/ApiWeb.Application.csproj.CoreCompileInputs.cache
+/workspace/ApiWeb.Application/obj/Debug/net8.0/ApiWeb.Application.sourcelink.json
+/workspace/ApiWeb.Application/obj/Debug/net8.0/ApiWeb.A.82A2F6F1.Up2Date
+/workspace/ApiWeb.Application/obj/Debug/net8.0/ApiWeb.Application.dll
+/workspace/ApiWeb.Application/obj/Debug/net8.0/refint/ApiWeb.Application.dll
+/workspace/ApiWeb.Application/obj/Debug/net8.0/ApiWeb.Application.pdb
+/workspace/ApiWeb.Application/obj/Debug/net8.0/ref/ApiWeb.Application.dll
